@@ -10,3 +10,5 @@ You have multiple options: You can either take the normal bus/train transport fr
 We moved from almost 100% web development topics in 2018 to a more generic engineering set of topics. You will find topics like: Web development, Machine Learning, DevOps, Developer life & teams management among others. We will continue including topics, as soon as we get feedback from the community.
 
 …
+
+*Note* If you have any question, please create an issue and it will be added into the README. Thanks! 
